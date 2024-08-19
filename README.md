@@ -21,5 +21,15 @@ This project is a node-based interface developed using React Flow and `@xyflow/r
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/salieabs-task-family-inheritance.git
+   git clone https://github.com/ponnparamaguru/react_flow_simple_demo.git
    cd react_flow_simple_demo
+2. **Install dependencies**:
+
+   ```bash
+      npm install zustand react-flow-renderer @xyflow/react reactflow
+3. **Run the application:**:
+   ```bash
+      npm start
+   
+The application will start on http://localhost:3000.
+
