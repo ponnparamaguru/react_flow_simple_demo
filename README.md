@@ -2,6 +2,8 @@
 
 This project is a node-based interface developed using React Flow and `@xyflow/react`. The interface allows users to add and remove nodes, with initial connections set up between input and output nodes. The app features image upload functionality for nodes, providing a dynamic and interactive UI experience.
 
+![Application Screenshot](src/assets/screenshot.png)
+
 ## Features
 
 - **Node-based Interface**: Users can easily add or remove nodes in the flow.
